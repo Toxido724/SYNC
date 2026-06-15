@@ -150,7 +150,7 @@
       "name": "Macrokey Keybinding 1 12",
       "version": "2.0.3.202",
       "file_name": "MacroKey Keybinding-1.12-2.0.3.202.jar",
-      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/MacroKey%20Keybinding-1.12-2.0.3.202.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/MacroKey.Keybinding-1.12-2.0.3.202.jar",
       "sha256": "f475df07df75b9a1023139aa316d384efa66ed071d1eebed7baafcffad8bc0d6",
       "delete_patterns": [
         "macrokey-keybinding-1.12-*.jar"
@@ -392,7 +392,7 @@
       "name": "Mixinbooter",
       "version": "10.7",
       "file_name": "!mixinbooter-10.7.jar",
-      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/%21mixinbooter-10.7.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/mixinbooter-10.7.jar",
       "sha256": "8bb53080aede2d2b1e1c5f713bbf49a38f20add8caa3d52fabcdf8a536b55a18",
       "delete_patterns": [
         "mixinbooter-*.jar"
@@ -403,7 +403,7 @@
       "name": "Biomes O Plenty Biomesoplenty 1 12 2",
       "version": "7.0.1.2444-universal[1]",
       "file_name": "[Biomes_O'_Plenty]_BiomesOPlenty-1.12.2-7.0.1.2444-universal[1].jar",
-      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/%5BBiomes_O%27_Plenty%5D_BiomesOPlenty-1.12.2-7.0.1.2444-universal%5B1%5D.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/Biomes_O._Plenty._BiomesOPlenty-1.12.2-7.0.1.2444-universal.1.jar",
       "sha256": "33343221c7b84098b41b093db8f2a4def42cc776beb18f5e3d354a321720e286",
       "delete_patterns": [
         "biomes-o-plenty-biomesoplenty-1.12.2-*.jar"
