@@ -1,0 +1,457 @@
+{
+  "manifest_version": 1,
+  "pack_name": "SYNC Mod Paketi",
+  "mods": [
+    {
+      "id": "colorfulhealthbar",
+      "name": "Colorfulhealthbar",
+      "version": "0.0.4a",
+      "file_name": "colorfulhealthbar-0.0.4a.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/colorfulhealthbar-0.0.4a.jar",
+      "sha256": "a80cf48a1e29b22f20d250b36de663e75346d44e7a3c16f3c133aac1b9828824",
+      "delete_patterns": [
+        "colorfulhealthbar-*.jar"
+      ]
+    },
+    {
+      "id": "ctm-mc1.12.2",
+      "name": "Ctm Mc1 12 2",
+      "version": "1.0.2.31",
+      "file_name": "CTM-MC1.12.2-1.0.2.31.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/CTM-MC1.12.2-1.0.2.31.jar",
+      "sha256": "433f441dc9c0aa75a4168df832900720ddadac1f22cc3bba4e4f25ca789b268b",
+      "delete_patterns": [
+        "ctm-mc1.12.2-*.jar"
+      ]
+    },
+    {
+      "id": "cyberware-mod",
+      "name": "Cyberware Mod",
+      "version": "1.12.2",
+      "file_name": "Cyberware-Mod-1.12.2.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/Cyberware-Mod-1.12.2.jar",
+      "sha256": "be9ddb160c15b14aaa50f838050f07da41b324c68124681b3905ea02cd239b81",
+      "delete_patterns": [
+        "cyberware-mod-*.jar"
+      ]
+    },
+    {
+      "id": "divinerpg",
+      "name": "Divinerpg",
+      "version": "1.7.1",
+      "file_name": "DivineRPG-1.7.1.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/DivineRPG-1.7.1.jar",
+      "sha256": "6a220de5ccde3580f44e113d3e89ade6e9196a11799fc6c3c03fbfd5a520a491",
+      "delete_patterns": [
+        "divinerpg-*.jar"
+      ]
+    },
+    {
+      "id": "electroblobswizardry",
+      "name": "Electroblobswizardry",
+      "version": "4.3.15",
+      "file_name": "ElectroblobsWizardry-4.3.15.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/ElectroblobsWizardry-4.3.15.jar",
+      "sha256": "d0038f87c9dd885d9835c48f7680cb030d77a160543125834a298fe9d1827afd",
+      "delete_patterns": [
+        "electroblobswizardry-*.jar"
+      ]
+    },
+    {
+      "id": "evren",
+      "name": "Evren",
+      "version": "",
+      "file_name": "evren.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/evren.jar",
+      "sha256": "edf3b5e911c442953d57febaa20d8f3622dc079c1f3ab57352bcbe59571a77fa",
+      "delete_patterns": [
+        "evren-*.jar"
+      ]
+    },
+    {
+      "id": "fastasyncworldedit-forge112-25.10.06-fb8a81c-1289",
+      "name": "Fastasyncworldedit Forge112 25 10 06 Fb8a81c 1289",
+      "version": "22.4.3",
+      "file_name": "FastAsyncWorldEdit-forge112-25.10.06-fb8a81c-1289-22.4.3.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/FastAsyncWorldEdit-forge112-25.10.06-fb8a81c-1289-22.4.3.jar",
+      "sha256": "caa4b260c33a5bc5a6623db6436cb23abddc8e5ca54bb1e0a8c73a482eede636",
+      "delete_patterns": [
+        "fastasyncworldedit-forge112-25.10.06-fb8a81c-1289-*.jar"
+      ]
+    },
+    {
+      "id": "futureversions",
+      "name": "Futureversions",
+      "version": "v1.3.0.2",
+      "file_name": "FutureVersions_v1.3.0.2.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/FutureVersions_v1.3.0.2.jar",
+      "sha256": "81038c92f4560a12f47fb68a7cd982f980e8ae0f41dd995eebcf8a04199f3fe0",
+      "delete_patterns": [
+        "futureversions-*.jar"
+      ]
+    },
+    {
+      "id": "gravitygun-1.12.2",
+      "name": "Gravitygun 1 12 2",
+      "version": "7.1.0",
+      "file_name": "GravityGun-1.12.2-7.1.0.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/GravityGun-1.12.2-7.1.0.jar",
+      "sha256": "277fd260adc40c0203c08da9fcfbdf776ca67b8d00ae8efd0ac1ff70108f8fd1",
+      "delete_patterns": [
+        "gravitygun-1.12.2-*.jar"
+      ]
+    },
+    {
+      "id": "horrorelementsmod1.12.2",
+      "name": "Horrorelementsmod1 12 2",
+      "version": "7.0",
+      "file_name": "HorrorElementsmod1.12.2_7.0.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/HorrorElementsmod1.12.2_7.0.jar",
+      "sha256": "be6ef91c23ff4203aed18fa26f68a3a2f0a768f175919e43249b44cf00838e8c",
+      "delete_patterns": [
+        "horrorelementsmod1.12.2-*.jar"
+      ]
+    },
+    {
+      "id": "ichunutil-1.12.2",
+      "name": "Ichunutil 1 12 2",
+      "version": "7.2.2",
+      "file_name": "iChunUtil-1.12.2-7.2.2.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/iChunUtil-1.12.2-7.2.2.jar",
+      "sha256": "e0b90727cbe54a11fe568f3d60cd59d64ff3c14f82437e1d1c10b575886ab8a3",
+      "delete_patterns": [
+        "ichunutil-1.12.2-*.jar"
+      ]
+    },
+    {
+      "id": "ingameaccountswitcher-forge-1.12",
+      "name": "Ingameaccountswitcher Forge 1 12",
+      "version": "8.0.1",
+      "file_name": "InGameAccountSwitcher-Forge-1.12-8.0.1.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/InGameAccountSwitcher-Forge-1.12-8.0.1.jar",
+      "sha256": "51fc269a97f9cb02270087d0debb1a753e54b74095ab659c133ab26089872a91",
+      "delete_patterns": [
+        "ingameaccountswitcher-forge-1.12-*.jar"
+      ]
+    },
+    {
+      "id": "llibrary-1.7.20",
+      "name": "Llibrary 1 7 20",
+      "version": "1.12.2",
+      "file_name": "llibrary-1.7.20-1.12.2.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/llibrary-1.7.20-1.12.2.jar",
+      "sha256": "27fa8dbfc7428168229a445dad82a4696ba52cf0a6e054833bff0f93931d8ceb",
+      "delete_patterns": [
+        "llibrary-1.7.20-*.jar"
+      ]
+    },
+    {
+      "id": "macrokey-keybinding-1.12",
+      "name": "Macrokey Keybinding 1 12",
+      "version": "2.0.3.202",
+      "file_name": "MacroKey Keybinding-1.12-2.0.3.202.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/MacroKey%20Keybinding-1.12-2.0.3.202.jar",
+      "sha256": "f475df07df75b9a1023139aa316d384efa66ed071d1eebed7baafcffad8bc0d6",
+      "delete_patterns": [
+        "macrokey-keybinding-1.12-*.jar"
+      ]
+    },
+    {
+      "id": "madoss_boralo_sesler",
+      "name": "Madoss Boralo Sesler",
+      "version": "",
+      "file_name": "madoss_boralo_sesler.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/madoss_boralo_sesler.jar",
+      "sha256": "6f22f8946bddf0201f8630e16961264ef5d34b37e4fba4d854bc247ba259cd73",
+      "delete_patterns": [
+        "madoss_boralo_sesler-*.jar"
+      ]
+    },
+    {
+      "id": "mahoutsukai-1.12.2",
+      "name": "Mahoutsukai 1 12 2",
+      "version": "v1.19.55",
+      "file_name": "mahoutsukai-1.12.2-v1.19.55.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/mahoutsukai-1.12.2-v1.19.55.jar",
+      "sha256": "46e93f3ad86d75d3d1545faa687b7cc44748336ba33da997f8a41ede1828ef08",
+      "delete_patterns": [
+        "mahoutsukai-1.12.2-*.jar"
+      ]
+    },
+    {
+      "id": "malisiscore-1.12.2",
+      "name": "Malisiscore 1 12 2",
+      "version": "6.5.1",
+      "file_name": "malisiscore-1.12.2-6.5.1.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/malisiscore-1.12.2-6.5.1.jar",
+      "sha256": "7dfc575fe73e4b38d25fca925e8248d12956b63cb874d38a66e224d7bc794226",
+      "delete_patterns": [
+        "malisiscore-1.12.2-*.jar"
+      ]
+    },
+    {
+      "id": "malisisdoors-1.12.2",
+      "name": "Malisisdoors 1 12 2",
+      "version": "7.3.0",
+      "file_name": "malisisdoors-1.12.2-7.3.0.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/malisisdoors-1.12.2-7.3.0.jar",
+      "sha256": "d2f453fde73d40cfcde685f5c87c0d11dcc8e8ef31f38439e76a3e7c53809e99",
+      "delete_patterns": [
+        "malisisdoors-1.12.2-*.jar"
+      ]
+    },
+    {
+      "id": "mappet-1.2.45",
+      "name": "Mappet 1 2 45",
+      "version": "1.12.2",
+      "file_name": "mappet-1.2.45-1.12.2.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/mappet-1.2.45-1.12.2.jar",
+      "sha256": "8b211dab0306f5c064107294591dc68765c68e2ea1069e4a4650e5780aee3d2f",
+      "delete_patterns": [
+        "mappet-1.2.45-*.jar"
+      ]
+    },
+    {
+      "id": "mclib-2.4.3",
+      "name": "Mclib 2 4 3",
+      "version": "1.12.2",
+      "file_name": "mclib-2.4.3-1.12.2.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/mclib-2.4.3-1.12.2.jar",
+      "sha256": "55acd32583b01851aa58fd551743ddf71e3b6f7c0dec1503bf7799e0951ef1a3",
+      "delete_patterns": [
+        "mclib-2.4.3-*.jar"
+      ]
+    },
+    {
+      "id": "metamorph-1.4",
+      "name": "Metamorph 1 4",
+      "version": "1.12.2",
+      "file_name": "metamorph-1.4-1.12.2.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/metamorph-1.4-1.12.2.jar",
+      "sha256": "c12987321d7cc9cead972e632576fd732606caa522d0c60fd5e8853494e57550",
+      "delete_patterns": [
+        "metamorph-1.4-*.jar"
+      ]
+    },
+    {
+      "id": "mowziesmobs",
+      "name": "Mowziesmobs",
+      "version": "1.5.7",
+      "file_name": "mowziesmobs-1.5.7.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/mowziesmobs-1.5.7.jar",
+      "sha256": "60ee986019376ba4aa3f28f87d94d417b969f87b5eca57f03c3db24b4289ebcb",
+      "delete_patterns": [
+        "mowziesmobs-*.jar"
+      ]
+    },
+    {
+      "id": "mrcrayfishs-furniture-mod",
+      "name": "Mrcrayfishs Furniture Mod",
+      "version": "1.12.2",
+      "file_name": "MrCrayfishs-Furniture-Mod-1.12.2.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/MrCrayfishs-Furniture-Mod-1.12.2.jar",
+      "sha256": "f412373512e14b431736ec54f465bf196b81c07939fa484202f457e1c0fbf144",
+      "delete_patterns": [
+        "mrcrayfishs-furniture-mod-*.jar"
+      ]
+    },
+    {
+      "id": "mysticallib-1.12.2",
+      "name": "Mysticallib 1 12 2",
+      "version": "1.13.0",
+      "file_name": "mysticallib-1.12.2-1.13.0.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/mysticallib-1.12.2-1.13.0.jar",
+      "sha256": "9293907825d431db479afd87fcc70b5d09b672231c2f66db2f41e74de02e4891",
+      "delete_patterns": [
+        "mysticallib-1.12.2-*.jar"
+      ]
+    },
+    {
+      "id": "nashorn",
+      "name": "Nashorn",
+      "version": "",
+      "file_name": "nashorn.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/nashorn.jar",
+      "sha256": "fbabd4851b52f2aa3cbb6baec541544b94763fe13eccfc3ca16cfdd3eda54f3b",
+      "delete_patterns": [
+        "nashorn-*.jar"
+      ]
+    },
+    {
+      "id": "optifine-1.12.2-hd-u-g5",
+      "name": "Optifine 1 12 2 Hd U G5",
+      "version": "2",
+      "file_name": "OptiFine_1.12.2_HD_U_G5_2.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/OptiFine_1.12.2_HD_U_G5_2.jar",
+      "sha256": "3b0006797771feb97f2d0d2908ae7c9a78cefb2e730af1c2e85d08a839ba271e",
+      "delete_patterns": [
+        "optifine-1.12.2-hd-u-g5-*.jar"
+      ]
+    },
+    {
+      "id": "potioncore-1.9-for",
+      "name": "Potioncore 1 9 For",
+      "version": "1.12.2",
+      "file_name": "PotionCore-1.9_for_1.12.2.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/PotionCore-1.9_for_1.12.2.jar",
+      "sha256": "0851c95e297efffc18539212b826e3b935e9fc189363d9e311df4bb6d62e27dd",
+      "delete_patterns": [
+        "potioncore-1.9-for-*.jar"
+      ]
+    },
+    {
+      "id": "proxys-lib-1.12.2",
+      "name": "Proxys Lib 1 12 2",
+      "version": "1.3.0.6",
+      "file_name": "proxys-lib-1.12.2-1.3.0.6.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/proxys-lib-1.12.2-1.3.0.6.jar",
+      "sha256": "cd49b39abbd9ea2a3841c8b7ff968c272be90e3cacdad9f314d2b8399a0ac5f4",
+      "delete_patterns": [
+        "proxys-lib-1.12.2-*.jar"
+      ]
+    },
+    {
+      "id": "ptrlib",
+      "name": "Ptrlib",
+      "version": "1.0.5",
+      "file_name": "PTRLib-1.0.5.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/PTRLib-1.0.5.jar",
+      "sha256": "d6e815a765bea4c419176aba73b7e59c0c6095b59ec37894b2e221858fcd81bd",
+      "delete_patterns": [
+        "ptrlib-*.jar"
+      ]
+    },
+    {
+      "id": "spooky-biomes-1.12.2",
+      "name": "Spooky Biomes 1 12 2",
+      "version": "1.2.0.19",
+      "file_name": "spooky-biomes-1.12.2-1.2.0.19.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/spooky-biomes-1.12.2-1.2.0.19.jar",
+      "sha256": "44584a86717c3ca86fd9bb730b79c1c6ba777e020c5a8a1043e8bc2ecf64f694",
+      "delete_patterns": [
+        "spooky-biomes-1.12.2-*.jar"
+      ]
+    },
+    {
+      "id": "techguns-1.12.2",
+      "name": "Techguns 1 12 2",
+      "version": "2.0.2.0-pre3.2",
+      "file_name": "techguns-1.12.2-2.0.2.0_pre3.2.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/techguns-1.12.2-2.0.2.0_pre3.2.jar",
+      "sha256": "154d3d794cfd74252f2cec979a6e72f5187bb9c21897ed4b42f45771a0e558f7",
+      "delete_patterns": [
+        "techguns-1.12.2-*.jar"
+      ]
+    },
+    {
+      "id": "tickratechanger",
+      "name": "Tickratechanger",
+      "version": "1.0.14",
+      "file_name": "TickrateChanger-1.0.14.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/TickrateChanger-1.0.14.jar",
+      "sha256": "14ff1d7b8a5cb2edecf532db17b0d68afc9ef5635494a4bf8fc84395931c431e",
+      "delete_patterns": [
+        "tickratechanger-*.jar"
+      ]
+    },
+    {
+      "id": "voicechat-api",
+      "name": "Voicechat Api",
+      "version": "2.6.55",
+      "file_name": "voicechat-api-2.6.55.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/voicechat-api-2.6.55.jar",
+      "sha256": "511110fadd37e4de6664198574ce3fafdd0aaad4ee4dd9a4c3e89bef99355069",
+      "delete_patterns": [
+        "voicechat-api-*.jar"
+      ]
+    },
+    {
+      "id": "voicechat-forge-1.12.2",
+      "name": "Voicechat Forge 1 12 2",
+      "version": "2.6.55",
+      "file_name": "voicechat-forge-1.12.2-2.6.55.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/voicechat-forge-1.12.2-2.6.55.jar",
+      "sha256": "7bd59c6abc85a198a986f951e7a2cd2d25309daee995d411f9bd4d913fe413c8",
+      "delete_patterns": [
+        "voicechat-forge-1.12.2-*.jar"
+      ]
+    },
+    {
+      "id": "worldedit-forge-mc1.12.2",
+      "name": "Worldedit Forge Mc1 12 2",
+      "version": "6.1.10-dist",
+      "file_name": "worldedit-forge-mc1.12.2-6.1.10-dist.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/worldedit-forge-mc1.12.2-6.1.10-dist.jar",
+      "sha256": "5726385babf01e2ad76be1356361213b0a968e8b8ab88123c5f9001323a9a6f0",
+      "delete_patterns": [
+        "worldedit-forge-mc1.12.2-*.jar"
+      ]
+    },
+    {
+      "id": "mixinbooter",
+      "name": "Mixinbooter",
+      "version": "10.7",
+      "file_name": "!mixinbooter-10.7.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/%21mixinbooter-10.7.jar",
+      "sha256": "8bb53080aede2d2b1e1c5f713bbf49a38f20add8caa3d52fabcdf8a536b55a18",
+      "delete_patterns": [
+        "mixinbooter-*.jar"
+      ]
+    },
+    {
+      "id": "biomes-o-plenty-biomesoplenty-1.12.2",
+      "name": "Biomes O Plenty Biomesoplenty 1 12 2",
+      "version": "7.0.1.2444-universal[1]",
+      "file_name": "[Biomes_O'_Plenty]_BiomesOPlenty-1.12.2-7.0.1.2444-universal[1].jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/%5BBiomes_O%27_Plenty%5D_BiomesOPlenty-1.12.2-7.0.1.2444-universal%5B1%5D.jar",
+      "sha256": "33343221c7b84098b41b093db8f2a4def42cc776beb18f5e3d354a321720e286",
+      "delete_patterns": [
+        "biomes-o-plenty-biomesoplenty-1.12.2-*.jar"
+      ]
+    },
+    {
+      "id": "athv1-hotfix",
+      "name": "Athv1 Hotfix",
+      "version": "",
+      "file_name": "athv1-hotfix.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/athv1-hotfix.jar",
+      "sha256": "e537ee17e5e792adb935f8ea789fc3ea4b058e43274f5c6153e7c86879731b28",
+      "delete_patterns": [
+        "athv1-hotfix-*.jar"
+      ]
+    },
+    {
+      "id": "beyond-the-skybox-1.1-forge",
+      "name": "Beyond The Skybox 1 1 Forge",
+      "version": "1.12.2-mercan",
+      "file_name": "beyond_the_skybox-1.1-forge-1.12.2-mercan.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/beyond_the_skybox-1.1-forge-1.12.2-mercan.jar",
+      "sha256": "f0a921bbdca196cd013828d19ac90d8ff9bf2d8ed5d2e620f6c9ce399108e488",
+      "delete_patterns": [
+        "beyond-the-skybox-1.1-forge-*.jar"
+      ]
+    },
+    {
+      "id": "blockbuster-2.7.1",
+      "name": "Blockbuster 2 7 1",
+      "version": "1.12.2",
+      "file_name": "blockbuster-2.7.1-1.12.2.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/blockbuster-2.7.1-1.12.2.jar",
+      "sha256": "76163bc33a17709891178c2f9edca86399b1c533b0230174f9d4bea3e2cdb047",
+      "delete_patterns": [
+        "blockbuster-2.7.1-*.jar"
+      ]
+    },
+    {
+      "id": "chisel-mc1.12.2",
+      "name": "Chisel Mc1 12 2",
+      "version": "1.0.2.45",
+      "file_name": "Chisel-MC1.12.2-1.0.2.45.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/Chisel-MC1.12.2-1.0.2.45.jar",
+      "sha256": "64c62f20a89939db2c03d47737c7bd371d8bd8c10ae42e2e8c63432ae89db2c7",
+      "delete_patterns": [
+        "chisel-mc1.12.2-*.jar"
+      ]
+    }
+  ]
+}
