@@ -124,17 +124,6 @@
       ]
     },
     {
-      "id": "ingameaccountswitcher-forge-1.12",
-      "name": "InGameAccountSwitcher Forge",
-      "version": "8.0.1",
-      "file_name": "InGameAccountSwitcher-Forge-1.12-8.0.1.jar",
-      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/InGameAccountSwitcher-Forge-1.12-8.0.1.jar",
-      "sha256": "51fc269a97f9cb02270087d0debb1a753e54b74095ab659c133ab26089872a91",
-      "delete_patterns": [
-        "InGameAccountSwitcher-Forge-1.12-*.jar"
-      ]
-    },
-    {
       "id": "llibrary-1.7.20",
       "name": "Llibrary 1 7 20",
       "version": "1.12.2",
