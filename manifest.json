@@ -357,10 +357,10 @@
     {
       "id": "voicechat-forge-1.12.2",
       "name": "Voicechat Forge 1 12 2",
-      "version": "2.6.55",
-      "file_name": "voicechat-forge-1.12.2-2.6.55.jar",
-      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/voicechat-forge-1.12.2-2.6.55.jar",
-      "sha256": "7bd59c6abc85a198a986f951e7a2cd2d25309daee995d411f9bd4d913fe413c8",
+      "version": "2.6.18",
+      "file_name": "voicechat-forge-1.12.2-2.6.18.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/voicechat-forge-1.12.2-2.6.18.jar",
+      "sha256": "a63d7b99ee360fc401aba0344f609140504c65d7bfbcf282222d53fe8d15cd22",
       "delete_patterns": [
         "voicechat-forge-1.12.2-*.jar"
       ]
