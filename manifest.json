@@ -202,13 +202,13 @@
     },
     {
       "id": "mappet-1.2.45",
-      "name": "Mappet 1 2 45",
-      "version": "1.12.2",
-      "file_name": "mappet-1.2.45-1.12.2.jar",
-      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/mappet-1.2.45-1.12.2.jar",
-      "sha256": "8b211dab0306f5c064107294591dc68765c68e2ea1069e4a4650e5780aee3d2f",
+      "name": "Mappet",
+      "version": "1.2.3",
+      "file_name": "mappet-1.2.3-1.12.2.jar",
+      "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/mappet-1.2.3-1.12.2.jar",
+      "sha256": "d36267ded501a847b1df49ba00fddc91bcc885a6036ba3ab61eeef32985d99ef",
       "delete_patterns": [
-        "mappet-1.2.45-*.jar"
+        "mappet-*.jar"
       ]
     },
     {
