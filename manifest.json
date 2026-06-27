@@ -415,7 +415,7 @@
       "version": "",
       "file_name": "athv1-hotfix.jar",
       "url": "https://github.com/Toxido724/SYNC/releases/download/modpack-v1/athv1-hotfix.jar",
-      "sha256": "e537ee17e5e792adb935f8ea789fc3ea4b058e43274f5c6153e7c86879731b28",
+      "sha256": "05d319c220cfccabc64a09538497d852b67015a6c3fe1c3f974259cd451bd550",
       "delete_patterns": [
         "athv1-hotfix-*.jar"
       ]
